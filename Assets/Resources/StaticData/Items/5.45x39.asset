@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d48f0008205418a932a02ec3134f99d, type: 3}
+  m_Name: 5.45x39
+  m_EditorClassIdentifier: 
+  NameRus: 5.45x39
+  NameEng: 5.45x39
+  Count: 5
+  MaxCount: 30
+  DescriptionRus: "\u043F\u0430\u0442\u0440\u043E\u043D\u044B \u043A\u0430\u043B\u0438\u0431\u0440\u0430
+    5.45x39"
+  DescriptionEng: 5.45x39 caliber cartridges
+  isDefaultItem: 0
+  UIIcon: {fileID: 21300000, guid: d45f0cae013abb84688afe6e4bc52845, type: 3}
+  Prefab: {fileID: 2481746117693949553, guid: 38335ca52cf0fcb4cb79303acdc1e024, type: 3}
+  ItemTypeID: 4

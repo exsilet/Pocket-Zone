@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d48f0008205418a932a02ec3134f99d, type: 3}
+  m_Name: bag
+  m_EditorClassIdentifier: 
+  NameRus: "\u0421\u0443\u043C\u043A\u0430"
+  NameEng: Bag
+  Count: 1
+  MaxCount: 1
+  DescriptionRus: "\u0441\u0443\u043C\u043A\u0430 \u0442\u0440\u044F\u043F\u0438\u0447\u043D\u0430\u044F
+    \u043D\u0430 24 \u0441\u043B\u043E\u0442\u0430"
+  DescriptionEng: rag bag for 24 slots
+  isDefaultItem: 0
+  UIIcon: {fileID: 21300000, guid: 93bce68c22ba2ed4592b0338ae2ac8fd, type: 3}
+  Prefab: {fileID: 7873798431404047079, guid: 7decaac1eef13c4479f0df1e694685bb, type: 3}
+  ItemTypeID: 1
